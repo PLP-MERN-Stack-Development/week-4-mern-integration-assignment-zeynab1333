@@ -63,18 +63,19 @@ npm run dev
 
 ## 🖼️ Screenshots
 
-_Add screenshots of your app here! Example:_
-
-![Home Page](screenshots/home.png)
-![Post View](screenshots/post.png)
-![Login](screenshots/login.png)
+![Home Page](<img width="1920" height="1080" alt="Screenshot (639)" src="https://github.com/user-attachments/assets/5c6e0056-7de2-499d-8ea2-5e5a93645ecb" />
+)
+![Post View](<img width="1920" height="1080" alt="Screenshot (640)" src="https://github.com/user-attachments/assets/72148b08-49d0-4e0f-87be-73c69109e115" />
+)
+![Login](<img width="1920" height="1080" alt="Screenshot (641)" src="https://github.com/user-attachments/assets/06ca741d-8bb1-4f28-b9e6-0394f0fe44a3" />
+)
 
 ---
 
 ## 🙌 Author
 
-- Your Name
-- [Your GitHub Profile](https://github.com/yourusername)
+- Zeynab
+- [My GitHub Profile](https://github.com/zeynab1333)
 
 ---
 
